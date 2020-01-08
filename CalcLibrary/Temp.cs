@@ -10,7 +10,7 @@ namespace CalcLibrary
             if (temperature != null && temperature.Length > 0)
             {
                 int quantita = temperature.Length;
-                double somma = 0;
+                double somma = 0; 
                 for (int i = 0; i < quantita; i++)
                 {
                     somma = somma + temperature[i];
