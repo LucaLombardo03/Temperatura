@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcLibrary", "CalcLibrary\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempLibrary.Test", "TempLibrary.Test\TempLibrary.Test.csproj", "{6FF8A2E8-7B47-4FE4-A91F-238FE9672410}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacciaGrafica", "InterfacciaGrafica\InterfacciaGrafica.csproj", "{5F1259EA-1CBC-4B2B-BEFC-642867283B09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6FF8A2E8-7B47-4FE4-A91F-238FE9672410}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FF8A2E8-7B47-4FE4-A91F-238FE9672410}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FF8A2E8-7B47-4FE4-A91F-238FE9672410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F1259EA-1CBC-4B2B-BEFC-642867283B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1259EA-1CBC-4B2B-BEFC-642867283B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1259EA-1CBC-4B2B-BEFC-642867283B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1259EA-1CBC-4B2B-BEFC-642867283B09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
